@@ -1,0 +1,6 @@
+.jumbotron {
+    text-align: center; 
+    background-image: url(img/gabagoo3.jpg);
+    background-size: contain;
+    color: beige;
+}
