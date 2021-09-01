@@ -4,3 +4,9 @@
     background-size: contain;
     color: beige;
 }
+img{
+    height: 400px;
+}
+.btn {
+    margin-top: 20px; margin-bottom: 20px;
+}
